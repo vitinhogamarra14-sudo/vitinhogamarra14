@@ -1,5 +1,5 @@
 # Hi there
-## Estudiante de [cuatrovientos] (https://cuatrovientos.org)
+## Estudiante de [cuatrovientos](https://cuatrovientos.org)
 
 **Hola!** Bienvenido a mi repositorio de _codigo_
 Estoy estudiando
